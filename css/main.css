@@ -1,0 +1,86 @@
+
+
+
+header
+{
+	background-image: url(../img/home.jpg);
+	width: 100%;
+
+
+}
+nav li a:hover, nav li a:focus
+{
+	text-decoration: none;
+	outline: none;
+	background: #FFF;
+}
+.list-inline
+{
+   
+	z-index: 1;
+	position: absolute;
+	right: 10px;
+	margin: 10px 0 0 0;
+}
+.botones
+{
+	width: 80%;
+}
+#main-navigation
+{
+	z-index: 1;
+	position: absolute;
+	right: 10px;
+	margin: 10px 0 0 0;
+}
+#main-navigation ul
+{
+	background: rgba(0,0,0,0.7);
+	list-style: none;
+	padding: 10px;
+	border-radius: 5px;
+}
+
+
+}
+.list-inline ul
+{
+	background: rgba(0,0,0,0.7);
+	list-style: none;
+	padding: 10px;
+	border-radius: 5px;
+
+}
+.frase
+{
+	color: white;
+}
+.texto
+{
+	margin: 10% ;
+	text-align: center;
+}
+.titulo
+{
+	text-align: center;
+	padding: 5% 0 0 0;
+}
+.form-comtrol
+{
+	color: #53534C;
+}
+button
+{
+  background-color: #2E86C1;
+
+
+}
+.fondo
+{
+	background-color: #F5F24C;
+	
+}
+img
+{
+	padding: 15%;
+}
